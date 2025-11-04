@@ -4,7 +4,7 @@ Autor: Pedro H Costa
 
 ## Status
 
-**Status:** Aprovado
+**Status:** Aprovado \
 **Data:** 24-10-2025
 
 ## Contexto

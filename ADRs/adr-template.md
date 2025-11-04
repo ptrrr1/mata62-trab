@@ -4,7 +4,7 @@ Author: Jhon Doe
 
 ## Status
 
-**Status:** Approved | Rejected | Pending
+**Status:** Approved | Rejected | Pending \
 **Date:** dd-mm-yyyy
 
 ## Context and Problem Statement
